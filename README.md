@@ -9,6 +9,7 @@ Bem-vindo(a) ao meu repositório! Aqui estão armazenados os códigos e projetos
 ## 📚 Sobre o Curso
 
 No canal do professor Pietro Martins de Oliveira, estou explorando:
+
 - 🐍 Os fundamentos da linguagem Python.
 - 🧩 Solução de problemas com lógica de programação.
 - 💡 Criação de pequenos projetos para reforçar os aprendizados.
